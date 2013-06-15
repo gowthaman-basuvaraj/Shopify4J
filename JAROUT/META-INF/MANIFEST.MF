@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: codegist-crest-1.0.1-javadoc.jar jackson-core-asl-1.8.5.ja
+ r httpmime-4.1.2.jar jackson-mapper-asl-1.8.5.jar jackson-mrbean-1.8.
+ 5.jar codegist-crest-1.0.1-all.jar httpclient-4.2.4.jar httpcore-4.2.
+ 4.jar commons-logging-1.1.1.jar commons-codec-1.6.jar jackson-mapper-
+ asl-1.8.5.jar httpmime-4.1.jar codegist-crest-1.0.1-all.jar jackson-c
+ ore-asl-1.8.5.jar codegist-crest-1.0.1-javadoc.jar jackson-mrbean-1.8
+ .5.jar jackson-mrbean-1.8.5.jar codegist-crest-1.0.1-all.jar codegist
+ -crest-1.0.1-javadoc.jar jackson-core-asl-1.8.5.jar httpmime-4.1.2.ja
+ r jackson-mapper-asl-1.8.5.jar
+Main-Class: 
+

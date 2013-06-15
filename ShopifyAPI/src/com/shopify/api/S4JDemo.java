@@ -24,7 +24,7 @@ public class S4JDemo {
         Credential creds = new Credential("f61abd243bd00e1511c2c05a3fe68dbc",
                 "fa2462fd38a87c58c6a2436982ccc202",
                 "narens-shop",
-                "47c24679261b85c10c109c0e9b5120eb");   //permanent token obtained after user installs the app (post-auth) . See: http://wiki.shopify.com/Making_API_calls_without_the_store_being_logged_in
+                "1d0efa040e555a20be5b1da8aac2871f ");   //permanent token obtained after user installs the app (post-auth) . See: http://wiki.shopify.com/Making_API_calls_without_the_store_being_logged_in
 
 
         shopify = new ShopifyClient(creds);
