@@ -13,7 +13,7 @@ import com.shopify.api.resources.ShopifyResource;
 
 public abstract class API {
 	private static final String MY_SHOPIFY_COM_ADMIN = ".myshopify.com/admin/";
-	private static final String URI_SCHEME = "http://";
+	private static final String URI_SCHEME = "https://";
 	private static final int SHOPIFY_PORT = 80;
 	
 	public enum APIResponseContent {XML, JSON, NONE}
