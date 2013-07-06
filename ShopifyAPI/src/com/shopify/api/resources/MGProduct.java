@@ -129,4 +129,14 @@ public class MGProduct extends ShopifyResource {
 		setAttribute("vendor", _vendor);
 	}
 
+
+    @JsonProperty("image")
+    public Image getImage() {
+        return (Image)getAttribute("image");
+    }
+    @JsonProperty("image")
+    public void setImage(Image _image) {
+        setAttribute("image", _image);
+    }
+
 }
